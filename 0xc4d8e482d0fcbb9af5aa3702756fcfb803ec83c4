@@ -1,0 +1,11 @@
+{ 
+"name": "METACyber",
+"website": "https://www.meta-cyber.io",
+"description": "$CYBER sets innovations in the field of Metaverse, Web 3, GameNFT and GameFI, created in BSC by a professional and powerful team.",
+"explorer": "https://bscscan.com/token/0xc4d8e482d0fcbb9af5aa3702756fcfb803ec83c4",
+"type": "BEP20",
+"symbol": "CYBER",
+"decimals": 9,
+"status": "active",
+"id": "0xc4d8e482d0fcbb9af5aa3702756fcfb803ec83c4"
+}
